@@ -423,16 +423,25 @@ It does not intentionally use protected personal characteristics for ranking.
 
 The generated result should be treated as decision support, not as a final hiring decision.
 
-18. Sample Data
+## 18. Sample Data
 
-The repository contains a sample Job Description and 10+ sample resumes for demonstrating batch screening.
+The repository contains 12 synthetic sample resumes for demonstrating
+batch screening across multiple resume formats.
+
+The sample dataset includes:
+
+- 10 TXT resumes
+- 1 PDF resume
+- 1 DOCX resume
+
+The agent processes all supported formats in a single run.
 
 Running:
 
 python main.py
 
-processes the sample dataset and generates the ranked outputs.
-
+processes the complete sample dataset and generates the ranked
+CSV and JSON outputs.
 19. Future Improvements
 
 With additional development time, the system could be extended with:
