@@ -423,7 +423,7 @@ It does not intentionally use protected personal characteristics for ranking.
 
 The generated result should be treated as decision support, not as a final hiring decision.
 
-## 18. Sample Data
+18. Sample Data
 
 The repository contains 12 synthetic sample resumes for demonstrating
 batch screening across multiple resume formats.
