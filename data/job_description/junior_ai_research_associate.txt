@@ -1,0 +1,50 @@
+Junior AI Research Associate
+
+JOB SUMMARY
+
+We are looking for a Junior AI Research Associate to work on AI-powered
+applications, research prototypes, and intelligent automation systems.
+
+EDUCATION
+
+Bachelor's degree in Computer Science, Information Technology,
+Artificial Intelligence, Data Science, or a related field.
+
+REQUIRED SKILLS
+
+Python
+Artificial Intelligence
+Machine Learning
+Natural Language Processing
+SQL
+REST APIs
+Git
+Problem Solving
+Data Processing
+
+PREFERRED SKILLS
+
+Java
+Spring Boot
+React
+PostgreSQL
+Scikit-learn
+Pandas
+NumPy
+Generative AI
+Large Language Models
+AI Agents
+
+EXPERIENCE
+
+Freshers and candidates with 0-1 years of experience are encouraged
+to apply.
+
+RESPONSIBILITIES
+
+Develop AI-powered applications and prototypes.
+Work with language models and AI APIs.
+Process and analyze structured and unstructured data.
+Build and test AI workflows.
+Research and evaluate AI technologies.
+Collaborate with technical teams.
