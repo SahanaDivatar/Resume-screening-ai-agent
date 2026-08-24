@@ -9,7 +9,7 @@
         "education_score": 100.0,
         "experience_score": 100.0,
         "rank": 1,
-        "ai_reasoning": "**Overall alignment**  \nSneha Rao demonstrates a solid foundation for the Junior AI Research Associate role, with a strong match to the core technical requirements and a perfect education and experience fit.\n\n**Strong matching skills**  \n- **Python, Machine Learning, Artificial Intelligence, NLP** \u2013 core AI competencies.  \n- **SQL, REST APIs, Git** \u2013 essential for data handling, integration, and version control.  \n- **Java** \u2013 a valuable additional language that aligns with the preferred skill"
+        "ai_reasoning": "**Overall alignment**  \nSneha Rao demonstrates a solid foundation for the Junior AI Research Associate role, with a strong match to the core technical requirements and a perfect education and experience fit for a fresher.\n\n**Strong matching skills**  \n- **Python, Machine Learning, Artificial Intelligence, NLP** \u2013 core AI competencies.  \n- **SQL, REST APIs, Git** \u2013 essential for data handling, integration, and version control.  \n- **Java** \u2013 a valuable additional language that aligns with the preferred skill"
     },
     {
         "candidate": "Ananya Patel",
@@ -21,7 +21,19 @@
         "education_score": 100.0,
         "experience_score": 100.0,
         "rank": 2,
-        "ai_reasoning": "**Overall alignment**  \nAnanya demonstrates a solid foundation in core AI and data\u2011engineering skills that align with the Junior AI Research Associate role, but the profile lacks several key requirements that reduce the overall fit.\n\n**Strong matching skills**  \n- **Python, SQL, Git** \u2013 core technical tools listed in the job description.  \n- **Machine Learning, AI, NLP** \u2013 directly match the required AI, ML, and NLP competencies.  \n- **PyTorch** \u2013 a relevant deep\u2011learning framework that supports AI prototype development.\n\n**Important gaps**  \n- **REST APIs** \u2013 not mentioned; essential for"
+        "ai_reasoning": "**Overall alignment**  \nAnanya Patel\u2019s profile shows a solid foundation for a Junior AI Research Associate role, with a 100\u202f% education match and full alignment with the 0\u20111\u202fyear experience requirement. The overall screening score of 55.14 reflects a moderate fit.\n\n**Strong matching skills**  \n- **Python** \u2013 core language for AI development.  \n- **SQL** \u2013 essential for data handling.  \n- **Git** \u2013 version control for collaborative work.  \n- **Machine Learning / AI** \u2013"
+    },
+    {
+        "candidate": "SKILLS",
+        "resume": "resume_11.pdf",
+        "skills": "Python, C, SQL, REST API, REST APIs, Git, Machine Learning, AI, NLP, Pandas, Scikit-learn",
+        "final_score": 52.27,
+        "similarity_score": 24.54,
+        "skill_score": 66.67,
+        "education_score": 100.0,
+        "experience_score": 100.0,
+        "rank": 3,
+        "ai_reasoning": "**Overall alignment**  \nThe candidate meets most of the core requirements for the Junior AI Research Associate role, with a strong foundation in the essential programming and AI skills.\n\n**Strong matching skills**  \n- **Python** \u2013 core language for AI development.  \n- **Machine Learning / AI** \u2013 directly relevant to research prototypes.  \n- **Natural Language Processing (NLP)** \u2013 key for language\u2011model work.  \n- **SQL** \u2013 required for data handling.  \n- **REST APIs** \u2013 needed for integrating AI services.  \n- **Git** \u2013 essential for version control.  \n- **Pandas & Scikit\u2011learn** \u2013 useful for data processing and model building.\n\n**Important"
     },
     {
         "candidate": "Rahul Sharma",
@@ -32,8 +44,8 @@
         "skill_score": 66.67,
         "education_score": 100.0,
         "experience_score": 100.0,
-        "rank": 3,
-        "ai_reasoning": "**Overall alignment**  \nRahul demonstrates a solid foundation in the core technical areas required for the Junior AI Research Associate role, reflected in a 66.67\u202f% skill match and perfect education/experience scores.  \n\n**Strong matching"
+        "rank": 4,
+        "ai_reasoning": "**Overall alignment**  \nRahul demonstrates a solid foundation in the core technical areas required for a Junior AI Research Associate, reflected"
     },
     {
         "candidate": "Arjun Reddy",
@@ -44,8 +56,20 @@
         "skill_score": 66.67,
         "education_score": 100.0,
         "experience_score": 100.0,
-        "rank": 4,
-        "ai_reasoning": "**Overall alignment**  \nArjun Reddy shows a solid foundation in core AI and data\u2011science skills that align with the Junior AI Research Associate role, but the profile lacks several key requirements that reduce the overall fit.\n\n**Strong matching skills**  \n- **Python** \u2013 core language for AI development.  \n- **Machine Learning / Artificial Intelligence** \u2013 core domain expertise.  \n- **Natural Language Processing (NLP)** \u2013 directly relevant to language\u2011model work.  \n- **SQL** \u2013 essential for structured data handling.  \n- **"
+        "rank": 5,
+        "ai_reasoning": "**Overall alignment**  \nArjun Reddy shows a solid foundation in core AI and data\u2011science skills that align well with the Junior AI Research Associate role. However, the profile lacks several key requirements that are critical for day\u2011to\u2011day responsibilities.\n\n**Strong matching skills**  \n- **Python** \u2013 core language for AI development.  \n-"
+    },
+    {
+        "candidate": "Skills",
+        "resume": "resume_12.docx",
+        "skills": "Python, Java, C, React, SQL, PostgreSQL, Spring Boot, Spring, REST API, REST APIs, Git, Machine Learning, Artificial Intelligence, AI",
+        "final_score": 50.88,
+        "similarity_score": 21.76,
+        "skill_score": 66.67,
+        "education_score": 100.0,
+        "experience_score": 100.0,
+        "rank": 6,
+        "ai_reasoning": "**Overall alignment**  \nThe candidate shows a solid foundation in core technical areas required for the Junior AI Research Associate role, but the profile lacks depth in several key AI\u2011specific competencies, particularly natural language processing and data\u2011processing skills.\n\n**Strong matching skills**  \n- **Python** \u2013 core language for AI development.  \n-"
     },
     {
         "candidate": "Vikram Rao",
@@ -56,8 +80,8 @@
         "skill_score": 55.56,
         "education_score": 100.0,
         "experience_score": 100.0,
-        "rank": 5,
-        "ai_reasoning": "**Overall alignment:**  \nThe candidate shows a solid foundation in core programming and data\u2011science tools that align with the Junior AI Research Associate role, but the match is moderate rather than strong.\n\n**Strong matching skills:**  \n- **Python, SQL, REST APIs, Git** \u2013 core technical requirements.  \n- **Machine Learning, Pandas, NumPy, Scikit\u2011learn** \u2013 key data\u2011processing and ML libraries.  \n\n**Important gaps:**  \n- No explicit experience or skills in **Natural Language Processing, Generative AI, Large Language Models, or AI Agents**, which are central to the job\u2019s focus on language\u2011model work.  \n- Missing **Java, Spring Boot, React, PostgreSQL** and other preferred technologies that would support full\u2011stack AI application development.  \n- The NLP similarity score (21.21/100) indicates limited alignment with the language\u2011model"
+        "rank": 7,
+        "ai_reasoning": "**Overall alignment**  \nThe candidate\u2019s profile shows a solid foundation in core technical areas required for the Junior AI Research Associate role, but it lacks several key competencies that are central to the position.\n\n**Strong matching skills**  \n- **Python** \u2013 core language for AI development.  \n- **Machine Learning** \u2013 directly aligns with the job\u2019s ML requirement.  \n- **SQL & REST APIs**"
     },
     {
         "candidate": "Sahana Divatar",
@@ -68,8 +92,8 @@
         "skill_score": 55.56,
         "education_score": 100.0,
         "experience_score": 100.0,
-        "rank": 6,
-        "ai_reasoning": "**Overall alignment**  \nSahana\u2019s profile shows a solid foundation in several core areas required for the Junior AI Research Associate role, but the overall fit is moderate due to gaps in key AI\u2011specific skills and a low NLP similarity score.\n\n**Strong matching skills**  \n- **Python** \u2013 core language for AI development.  \n- **Machine Learning** \u2013 directly"
+        "rank": 8,
+        "ai_reasoning": "**Overall alignment**  \nSahana\u2019s profile shows a solid foundation in core programming and backend technologies, and she meets the educational and experience requirements for a junior role. However, the alignment with the AI\u2011specific focus of the position is moderate, reflected in the overall screening score of **43.19/100**.\n\n**Strong matching skills**  \n- **Python** \u2013 core language for AI development.  \n-"
     },
     {
         "candidate": "Amit Verma",
@@ -80,8 +104,8 @@
         "skill_score": 44.44,
         "education_score": 100.0,
         "experience_score": 100.0,
-        "rank": 7,
-        "ai_reasoning": "**Overall alignment**  \nAmit\u2019s profile shows a solid foundation in core software development skills that are relevant to the role, but it lacks the specialized AI/ML expertise the position requires.\n\n**Strong matching skills**  \n- **Python** \u2013 core language for AI research.  \n- **SQL & PostgreSQL** \u2013 essential for data handling.  \n- **REST APIs** \u2013 key for integrating AI services.  \n- **Git** \u2013 required for version control.  \n- **React** \u2013"
+        "rank": 9,
+        "ai_reasoning": "**Overall alignment**  \nAmit\u2019s profile shows a solid foundation in core software development skills that align with the Junior AI Research Associate role, but it lacks the specialized AI/ML expertise the position requires.\n\n**Strong matching skills**  \n- **Python** \u2013 core language for AI development.  \n- **SQL & PostgreSQL** \u2013 essential for data handling.  \n- **REST APIs** \u2013 key for integrating AI services.  \n- **Git** \u2013 required for version"
     },
     {
         "candidate": "Priya Kumar",
@@ -92,8 +116,8 @@
         "skill_score": 33.33,
         "education_score": 100.0,
         "experience_score": 100.0,
-        "rank": 8,
-        "ai_reasoning": "**Overall alignment**  \nPriya meets the educational and experience requirements (100\u202f% match) but has limited overlap with the core technical skills needed for the Junior AI Research Associate role.\n\n**Strong matching skills**  \n- **SQL / PostgreSQL** \u2013 directly relevant for data processing and structured data handling.  \n- **REST APIs** \u2013 essential for integrating AI services and building AI\u2011powered applications.  \n- **Git** \u2013 critical for version control and collaboration on research prototypes.  \n- **Java / Spring Boot** \u2013 while not listed as required, they support backend development for AI workflows.\n\n**Important gaps**  \n- No evidence of **Python**, the primary language for AI/ML development.  \n- No experience or skills in **Artificial Intelligence, Machine Learning, Natural Language"
+        "rank": 10,
+        "ai_reasoning": "**Overall alignment**  \nPriya meets the educational and experience criteria for a Junior AI Research Associate, but her technical skill set is largely outside the core AI and machine\u2011learning domain required for the role.\n\n**Strong matching skills**  \n- Java, Spring Boot, Spring, Hibernate  \n- React  \n- SQL, PostgreSQL  \n- REST APIs  \n- Git  \n\nThese are listed as preferred skills in the job description"
     },
     {
         "candidate": "Kiran Kumar",
@@ -104,8 +128,8 @@
         "skill_score": 22.22,
         "education_score": 0.0,
         "experience_score": 100.0,
-        "rank": 9,
-        "ai_reasoning": "**Overall alignment**  \nKiran Kumar\u2019s profile shows limited alignment with the Junior AI Research Associate role. While the candidate meets the experience requirement (0\u20131\u202fyears), the core technical skills and educational background required for the position are largely absent.\n\n**Strong matching skills**  \n- **SQL** \u2013 listed in the candidate\u2019s skill set.  \n- **Git** \u2013 also listed, aligning with the job\u2019s version\u2011control requirement.  \n- **Spring Boot / Spring** \u2013 present, though not directly relevant to AI research.\n\n**Important gaps**  \n- **Python, AI, Machine Learning, NLP, and related libraries** are missing entirely.  \n- No evidence of experience with **REST APIs**, **data processing**, or **AI workflows**.  \n- **Education** does not match the required Bachelor\u2019s degree in Computer Science, AI, Data Science, or a related field (Education Match Score\u202f=\u202f0).  \n- **Preferred skills** such as Java"
+        "rank": 11,
+        "ai_reasoning": "**Overall alignment**  \nKiran Kumar\u2019s profile shows limited overlap with the Junior AI Research Associate role. While the candidate possesses several technical skills that align with the preferred stack, key requirements for the position\u2014particularly in AI, machine learning, and Python\u2014are absent.\n\n**Strong matching skills**  \n- **Java & Spring Boot** \u2013 directly match the preferred skills list.  \n- **SQL** \u2013 satisfies the required data\u2011handling skill.  \n- **Git** \u2013 meets the version\u2011control requirement.  \n\n**Important gaps**  \n- No evidence of **Python**, **Artificial Intelligence**, **Machine Learning**, **Natural Language Processing"
     },
     {
         "candidate": "Neha Singh",
@@ -116,7 +140,7 @@
         "skill_score": 22.22,
         "education_score": 0.0,
         "experience_score": 100.0,
-        "rank": 10,
-        "ai_reasoning": "**Overall alignment**  \nNeha Singh\u2019s profile shows limited alignment with the Junior AI Research Associate role. The candidate meets only a few of the core technical requirements and lacks the educational background and AI\u2011specific experience the position seeks.\n\n**Strong matching skills**  \n- **Java** \u2013 listed in the job\u2019s preferred skills.  \n- **SQL** \u2013 required for data processing.  \n- **Git** \u2013 essential for version control.\n\n**Important gaps**  \n- No evidence of **"
+        "rank": 12,
+        "ai_reasoning": "**Overall alignment:**  \nThe candidate\u2019s profile shows limited alignment with the Junior AI Research Associate role. While they meet the experience requirement (0\u20111\u202fyears), they lack the core technical and educational qualifications that the position demands.\n\n**Strong"
     }
 ]

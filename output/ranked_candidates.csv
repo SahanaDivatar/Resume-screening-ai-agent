@@ -1,92 +1,89 @@
 rank,candidate,resume,final_score,similarity_score,skill_score,education_score,experience_score,skills,ai_reasoning
 1,Sneha Rao,resume_09.txt,60.23,33.79,77.78,100.0,100.0,"Python, Java, C, SQL, REST API, REST APIs, Git, Machine Learning, Artificial Intelligence, AI, NLP","**Overall alignment**  
-Sneha Rao demonstrates a solid foundation for the Junior AI Research Associate role, with a strong match to the core technical requirements and a perfect education and experience fit.
+Sneha Rao demonstrates a solid foundation for the Junior AI Research Associate role, with a strong match to the core technical requirements and a perfect education and experience fit for a fresher.
 
 **Strong matching skills**  
 - **Python, Machine Learning, Artificial Intelligence, NLP** – core AI competencies.  
 - **SQL, REST APIs, Git** – essential for data handling, integration, and version control.  
 - **Java** – a valuable additional language that aligns with the preferred skill"
 2,Ananya Patel,resume_07.txt,55.14,36.94,55.56,100.0,100.0,"Python, C, SQL, Git, Machine Learning, AI, NLP, PyTorch","**Overall alignment**  
-Ananya demonstrates a solid foundation in core AI and data‑engineering skills that align with the Junior AI Research Associate role, but the profile lacks several key requirements that reduce the overall fit.
-
-**Strong matching skills**  
-- **Python, SQL, Git** – core technical tools listed in the job description.  
-- **Machine Learning, AI, NLP** – directly match the required AI, ML, and NLP competencies.  
-- **PyTorch** – a relevant deep‑learning framework that supports AI prototype development.
-
-**Important gaps**  
-- **REST APIs** – not mentioned; essential for"
-3,Rahul Sharma,resume_02.txt,51.92,23.83,66.67,100.0,100.0,"Python, C, SQL, REST API, REST APIs, Git, Machine Learning, AI, NLP, Pandas, NumPy, Scikit-learn","**Overall alignment**  
-Rahul demonstrates a solid foundation in the core technical areas required for the Junior AI Research Associate role, reflected in a 66.67 % skill match and perfect education/experience scores.  
-
-**Strong matching"
-4,Arjun Reddy,resume_04.txt,51.81,23.62,66.67,100.0,100.0,"Python, C, SQL, Git, Machine Learning, Artificial Intelligence, AI, NLP, Pandas, TensorFlow","**Overall alignment**  
-Arjun Reddy shows a solid foundation in core AI and data‑science skills that align with the Junior AI Research Associate role, but the profile lacks several key requirements that reduce the overall fit.
+Ananya Patel’s profile shows a solid foundation for a Junior AI Research Associate role, with a 100 % education match and full alignment with the 0‑1 year experience requirement. The overall screening score of 55.14 reflects a moderate fit.
 
 **Strong matching skills**  
 - **Python** – core language for AI development.  
-- **Machine Learning / Artificial Intelligence** – core domain expertise.  
-- **Natural Language Processing (NLP)** – directly relevant to language‑model work.  
-- **SQL** – essential for structured data handling.  
-- **"
-5,Vikram Rao,resume_06.txt,47.27,21.21,55.56,100.0,100.0,"Python, C, SQL, REST API, REST APIs, Git, Machine Learning, Pandas, NumPy, Scikit-learn","**Overall alignment:**  
-The candidate shows a solid foundation in core programming and data‑science tools that align with the Junior AI Research Associate role, but the match is moderate rather than strong.
-
-**Strong matching skills:**  
-- **Python, SQL, REST APIs, Git** – core technical requirements.  
-- **Machine Learning, Pandas, NumPy, Scikit‑learn** – key data‑processing and ML libraries.  
-
-**Important gaps:**  
-- No explicit experience or skills in **Natural Language Processing, Generative AI, Large Language Models, or AI Agents**, which are central to the job’s focus on language‑model work.  
-- Missing **Java, Spring Boot, React, PostgreSQL** and other preferred technologies that would support full‑stack AI application development.  
-- The NLP similarity score (21.21/100) indicates limited alignment with the language‑model"
-6,Sahana Divatar,sample_resume.txt,43.19,13.04,55.56,100.0,100.0,"Python, Java, C, TypeScript, React, Next.js, SQL, PostgreSQL, Spring Boot, Spring, Hibernate, REST API, REST APIs, Git, Machine Learning","**Overall alignment**  
-Sahana’s profile shows a solid foundation in several core areas required for the Junior AI Research Associate role, but the overall fit is moderate due to gaps in key AI‑specific skills and a low NLP similarity score.
+- **SQL** – essential for data handling.  
+- **Git** – version control for collaborative work.  
+- **Machine Learning / AI** –"
+3,SKILLS,resume_11.pdf,52.27,24.54,66.67,100.0,100.0,"Python, C, SQL, REST API, REST APIs, Git, Machine Learning, AI, NLP, Pandas, Scikit-learn","**Overall alignment**  
+The candidate meets most of the core requirements for the Junior AI Research Associate role, with a strong foundation in the essential programming and AI skills.
 
 **Strong matching skills**  
 - **Python** – core language for AI development.  
-- **Machine Learning** – directly"
-7,Amit Verma,resume_10.txt,38.85,11.04,44.44,100.0,100.0,"Python, Java, C, JavaScript, TypeScript, React, SQL, PostgreSQL, REST API, REST APIs, Git","**Overall alignment**  
-Amit’s profile shows a solid foundation in core software development skills that are relevant to the role, but it lacks the specialized AI/ML expertise the position requires.
+- **Machine Learning / AI** – directly relevant to research prototypes.  
+- **Natural Language Processing (NLP)** – key for language‑model work.  
+- **SQL** – required for data handling.  
+- **REST APIs** – needed for integrating AI services.  
+- **Git** – essential for version control.  
+- **Pandas & Scikit‑learn** – useful for data processing and model building.
+
+**Important"
+4,Rahul Sharma,resume_02.txt,51.92,23.83,66.67,100.0,100.0,"Python, C, SQL, REST API, REST APIs, Git, Machine Learning, AI, NLP, Pandas, NumPy, Scikit-learn","**Overall alignment**  
+Rahul demonstrates a solid foundation in the core technical areas required for a Junior AI Research Associate, reflected"
+5,Arjun Reddy,resume_04.txt,51.81,23.62,66.67,100.0,100.0,"Python, C, SQL, Git, Machine Learning, Artificial Intelligence, AI, NLP, Pandas, TensorFlow","**Overall alignment**  
+Arjun Reddy shows a solid foundation in core AI and data‑science skills that align well with the Junior AI Research Associate role. However, the profile lacks several key requirements that are critical for day‑to‑day responsibilities.
 
 **Strong matching skills**  
-- **Python** – core language for AI research.  
+- **Python** – core language for AI development.  
+-"
+6,Skills,resume_12.docx,50.88,21.76,66.67,100.0,100.0,"Python, Java, C, React, SQL, PostgreSQL, Spring Boot, Spring, REST API, REST APIs, Git, Machine Learning, Artificial Intelligence, AI","**Overall alignment**  
+The candidate shows a solid foundation in core technical areas required for the Junior AI Research Associate role, but the profile lacks depth in several key AI‑specific competencies, particularly natural language processing and data‑processing skills.
+
+**Strong matching skills**  
+- **Python** – core language for AI development.  
+-"
+7,Vikram Rao,resume_06.txt,47.27,21.21,55.56,100.0,100.0,"Python, C, SQL, REST API, REST APIs, Git, Machine Learning, Pandas, NumPy, Scikit-learn","**Overall alignment**  
+The candidate’s profile shows a solid foundation in core technical areas required for the Junior AI Research Associate role, but it lacks several key competencies that are central to the position.
+
+**Strong matching skills**  
+- **Python** – core language for AI development.  
+- **Machine Learning** – directly aligns with the job’s ML requirement.  
+- **SQL & REST APIs**"
+8,Sahana Divatar,sample_resume.txt,43.19,13.04,55.56,100.0,100.0,"Python, Java, C, TypeScript, React, Next.js, SQL, PostgreSQL, Spring Boot, Spring, Hibernate, REST API, REST APIs, Git, Machine Learning","**Overall alignment**  
+Sahana’s profile shows a solid foundation in core programming and backend technologies, and she meets the educational and experience requirements for a junior role. However, the alignment with the AI‑specific focus of the position is moderate, reflected in the overall screening score of **43.19/100**.
+
+**Strong matching skills**  
+- **Python** – core language for AI development.  
+-"
+9,Amit Verma,resume_10.txt,38.85,11.04,44.44,100.0,100.0,"Python, Java, C, JavaScript, TypeScript, React, SQL, PostgreSQL, REST API, REST APIs, Git","**Overall alignment**  
+Amit’s profile shows a solid foundation in core software development skills that align with the Junior AI Research Associate role, but it lacks the specialized AI/ML expertise the position requires.
+
+**Strong matching skills**  
+- **Python** – core language for AI development.  
 - **SQL & PostgreSQL** – essential for data handling.  
 - **REST APIs** – key for integrating AI services.  
-- **Git** – required for version control.  
-- **React** –"
-8,Priya Kumar,resume_03.txt,37.06,14.12,33.33,100.0,100.0,"Java, C, React, SQL, PostgreSQL, Spring Boot, Spring, Hibernate, REST API, REST APIs, Git","**Overall alignment**  
-Priya meets the educational and experience requirements (100 % match) but has limited overlap with the core technical skills needed for the Junior AI Research Associate role.
+- **Git** – required for version"
+10,Priya Kumar,resume_03.txt,37.06,14.12,33.33,100.0,100.0,"Java, C, React, SQL, PostgreSQL, Spring Boot, Spring, Hibernate, REST API, REST APIs, Git","**Overall alignment**  
+Priya meets the educational and experience criteria for a Junior AI Research Associate, but her technical skill set is largely outside the core AI and machine‑learning domain required for the role.
 
 **Strong matching skills**  
-- **SQL / PostgreSQL** – directly relevant for data processing and structured data handling.  
-- **REST APIs** – essential for integrating AI services and building AI‑powered applications.  
-- **Git** – critical for version control and collaboration on research prototypes.  
-- **Java / Spring Boot** – while not listed as required, they support backend development for AI workflows.
+- Java, Spring Boot, Spring, Hibernate  
+- React  
+- SQL, PostgreSQL  
+- REST APIs  
+- Git  
 
-**Important gaps**  
-- No evidence of **Python**, the primary language for AI/ML development.  
-- No experience or skills in **Artificial Intelligence, Machine Learning, Natural Language"
-9,Kiran Kumar,resume_08.txt,20.45,7.57,22.22,0.0,100.0,"Java, C, HTML, CSS, SQL, Spring Boot, Spring, Git","**Overall alignment**  
-Kiran Kumar’s profile shows limited alignment with the Junior AI Research Associate role. While the candidate meets the experience requirement (0–1 years), the core technical skills and educational background required for the position are largely absent.
-
-**Strong matching skills**  
-- **SQL** – listed in the candidate’s skill set.  
-- **Git** – also listed, aligning with the job’s version‑control requirement.  
-- **Spring Boot / Spring** – present, though not directly relevant to AI research.
-
-**Important gaps**  
-- **Python, AI, Machine Learning, NLP, and related libraries** are missing entirely.  
-- No evidence of experience with **REST APIs**, **data processing**, or **AI workflows**.  
-- **Education** does not match the required Bachelor’s degree in Computer Science, AI, Data Science, or a related field (Education Match Score = 0).  
-- **Preferred skills** such as Java"
-10,Neha Singh,resume_05.txt,19.5,5.66,22.22,0.0,100.0,"Java, C++, C, JavaScript, HTML, CSS, SQL, Git","**Overall alignment**  
-Neha Singh’s profile shows limited alignment with the Junior AI Research Associate role. The candidate meets only a few of the core technical requirements and lacks the educational background and AI‑specific experience the position seeks.
+These are listed as preferred skills in the job description"
+11,Kiran Kumar,resume_08.txt,20.45,7.57,22.22,0.0,100.0,"Java, C, HTML, CSS, SQL, Spring Boot, Spring, Git","**Overall alignment**  
+Kiran Kumar’s profile shows limited overlap with the Junior AI Research Associate role. While the candidate possesses several technical skills that align with the preferred stack, key requirements for the position—particularly in AI, machine learning, and Python—are absent.
 
 **Strong matching skills**  
-- **Java** – listed in the job’s preferred skills.  
-- **SQL** – required for data processing.  
-- **Git** – essential for version control.
+- **Java & Spring Boot** – directly match the preferred skills list.  
+- **SQL** – satisfies the required data‑handling skill.  
+- **Git** – meets the version‑control requirement.  
 
 **Important gaps**  
-- No evidence of **"
+- No evidence of **Python**, **Artificial Intelligence**, **Machine Learning**, **Natural Language Processing"
+12,Neha Singh,resume_05.txt,19.5,5.66,22.22,0.0,100.0,"Java, C++, C, JavaScript, HTML, CSS, SQL, Git","**Overall alignment:**  
+The candidate’s profile shows limited alignment with the Junior AI Research Associate role. While they meet the experience requirement (0‑1 years), they lack the core technical and educational qualifications that the position demands.
+
+**Strong"
