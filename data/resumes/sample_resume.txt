@@ -1,0 +1,22 @@
+Sahana Divatar
+
+EDUCATION
+B.E. Computer Science Engineering
+
+SKILLS
+Java, Python, SQL, Spring Boot, Hibernate, React, TypeScript,
+PostgreSQL, Git, REST APIs
+
+EXPERIENCE
+Web Development Intern
+Worked on web applications and backend development.
+
+PROJECTS
+College Discovery Platform
+Built a web application using React, TypeScript, Next.js and PostgreSQL.
+
+E-commerce Application
+Developed REST APIs using Java and Spring Boot.
+
+Smart Poultry Farming
+Worked with IoT and machine learning for disease detection.
