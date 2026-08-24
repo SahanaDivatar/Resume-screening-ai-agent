@@ -1,0 +1,15 @@
+Kiran Kumar
+
+EDUCATION
+B.E. Mechanical Engineering
+
+SKILLS
+Java, SQL, Spring Boot, HTML, CSS, Git
+
+EXPERIENCE
+Software Intern
+Worked on backend development.
+
+PROJECTS
+Inventory Management System
+Built a Java backend application.

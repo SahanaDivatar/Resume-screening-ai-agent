@@ -1,0 +1,16 @@
+Rahul Sharma
+
+EDUCATION
+B.E. Computer Science Engineering
+
+SKILLS
+Python, Machine Learning, NLP, SQL, Pandas, NumPy, Git,
+REST APIs, Scikit-learn
+
+EXPERIENCE
+AI Intern
+Worked on machine learning models and NLP applications.
+
+PROJECTS
+Resume Classification System
+Built an NLP system for classifying resumes.

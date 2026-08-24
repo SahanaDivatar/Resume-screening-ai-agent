@@ -1,0 +1,16 @@
+Sneha Rao
+
+EDUCATION
+B.E. Computer Science Engineering
+
+SKILLS
+Python, Java, SQL, Artificial Intelligence,
+Machine Learning, NLP, Git, REST APIs
+
+EXPERIENCE
+Software Developer Intern
+Worked on AI-powered applications.
+
+PROJECTS
+AI Recommendation System
+Built an intelligent recommendation application.

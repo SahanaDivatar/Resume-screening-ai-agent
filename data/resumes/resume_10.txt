@@ -1,0 +1,16 @@
+Amit Verma
+
+EDUCATION
+B.E. Information Technology
+
+SKILLS
+Python, JavaScript, React, TypeScript, SQL,
+Git, PostgreSQL, REST APIs
+
+EXPERIENCE
+Web Developer Intern
+Developed web applications using React.
+
+PROJECTS
+College Discovery Platform
+Built a college search platform using React and PostgreSQL.

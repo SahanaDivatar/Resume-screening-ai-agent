@@ -1,0 +1,16 @@
+Ananya Patel
+
+EDUCATION
+B.E. Computer Science
+
+SKILLS
+Python, AI, NLP, SQL, Machine Learning,
+PyTorch, Git, Data Processing
+
+EXPERIENCE
+AI Research Intern
+Worked on natural language processing research.
+
+PROJECTS
+Text Classification
+Built an NLP classification model.

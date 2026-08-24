@@ -1,0 +1,16 @@
+Vikram Rao
+
+EDUCATION
+B.E. Computer Science Engineering
+
+SKILLS
+Python, SQL, Machine Learning, Scikit-learn,
+Pandas, NumPy, Git, REST APIs
+
+EXPERIENCE
+Data Science Intern
+Worked on data processing and machine learning.
+
+PROJECTS
+Customer Churn Prediction
+Built a machine learning model using Python.

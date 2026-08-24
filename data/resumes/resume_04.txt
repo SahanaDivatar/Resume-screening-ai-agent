@@ -1,0 +1,16 @@
+Arjun Reddy
+
+EDUCATION
+B.E. Computer Science
+
+SKILLS
+Python, Artificial Intelligence, Machine Learning,
+NLP, SQL, TensorFlow, Pandas, Git
+
+EXPERIENCE
+Machine Learning Intern
+Developed machine learning models for data analysis.
+
+PROJECTS
+AI Chatbot
+Developed an NLP-based chatbot using Python.

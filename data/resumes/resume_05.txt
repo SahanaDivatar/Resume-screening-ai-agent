@@ -1,0 +1,15 @@
+Neha Singh
+
+EDUCATION
+B.E. Electronics and Communication Engineering
+
+SKILLS
+Java, C++, SQL, HTML, CSS, JavaScript, Git
+
+EXPERIENCE
+Software Engineering Intern
+Worked on web applications.
+
+PROJECTS
+Web Application
+Built a JavaScript-based web application.

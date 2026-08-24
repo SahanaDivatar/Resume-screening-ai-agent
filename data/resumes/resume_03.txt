@@ -1,0 +1,16 @@
+Priya Kumar
+
+EDUCATION
+B.E. Information Technology
+
+SKILLS
+Java, Spring Boot, Hibernate, SQL, PostgreSQL, Git,
+REST APIs, React
+
+EXPERIENCE
+Java Developer Intern
+Developed REST APIs using Spring Boot.
+
+PROJECTS
+E-commerce Backend
+Built backend services using Java and Spring Boot.
