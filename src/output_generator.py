@@ -29,6 +29,7 @@ def save_results_to_csv(
         "education_score",
         "experience_score",
         "skills",
+        "ai_reasoning",
     ]
 
     with output_file.open(
