@@ -1,0 +1,11 @@
+rank,candidate,resume,final_score,similarity_score,skill_score,education_score,experience_score,skills
+1,Sneha Rao,resume_09.txt,60.23,33.79,77.78,100.0,100.0,"Python, Java, C, SQL, REST API, REST APIs, Git, Machine Learning, Artificial Intelligence, AI, NLP"
+2,Ananya Patel,resume_07.txt,55.14,36.94,55.56,100.0,100.0,"Python, C, SQL, Git, Machine Learning, AI, NLP, PyTorch"
+3,Rahul Sharma,resume_02.txt,51.92,23.83,66.67,100.0,100.0,"Python, C, SQL, REST API, REST APIs, Git, Machine Learning, AI, NLP, Pandas, NumPy, Scikit-learn"
+4,Arjun Reddy,resume_04.txt,51.81,23.62,66.67,100.0,100.0,"Python, C, SQL, Git, Machine Learning, Artificial Intelligence, AI, NLP, Pandas, TensorFlow"
+5,Vikram Rao,resume_06.txt,47.27,21.21,55.56,100.0,100.0,"Python, C, SQL, REST API, REST APIs, Git, Machine Learning, Pandas, NumPy, Scikit-learn"
+6,Sahana Divatar,sample_resume.txt,43.19,13.04,55.56,100.0,100.0,"Python, Java, C, TypeScript, React, Next.js, SQL, PostgreSQL, Spring Boot, Spring, Hibernate, REST API, REST APIs, Git, Machine Learning"
+7,Amit Verma,resume_10.txt,38.85,11.04,44.44,100.0,100.0,"Python, Java, C, JavaScript, TypeScript, React, SQL, PostgreSQL, REST API, REST APIs, Git"
+8,Priya Kumar,resume_03.txt,37.06,14.12,33.33,100.0,100.0,"Java, C, React, SQL, PostgreSQL, Spring Boot, Spring, Hibernate, REST API, REST APIs, Git"
+9,Kiran Kumar,resume_08.txt,20.45,7.57,22.22,0.0,100.0,"Java, C, HTML, CSS, SQL, Spring Boot, Spring, Git"
+10,Neha Singh,resume_05.txt,19.5,5.66,22.22,0.0,100.0,"Java, C++, C, JavaScript, HTML, CSS, SQL, Git"

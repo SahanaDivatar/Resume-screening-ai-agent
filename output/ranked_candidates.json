@@ -1,0 +1,112 @@
+[
+    {
+        "candidate": "Sneha Rao",
+        "resume": "resume_09.txt",
+        "skills": "Python, Java, C, SQL, REST API, REST APIs, Git, Machine Learning, Artificial Intelligence, AI, NLP",
+        "final_score": 60.23,
+        "similarity_score": 33.79,
+        "skill_score": 77.78,
+        "education_score": 100.0,
+        "experience_score": 100.0,
+        "rank": 1
+    },
+    {
+        "candidate": "Ananya Patel",
+        "resume": "resume_07.txt",
+        "skills": "Python, C, SQL, Git, Machine Learning, AI, NLP, PyTorch",
+        "final_score": 55.14,
+        "similarity_score": 36.94,
+        "skill_score": 55.56,
+        "education_score": 100.0,
+        "experience_score": 100.0,
+        "rank": 2
+    },
+    {
+        "candidate": "Rahul Sharma",
+        "resume": "resume_02.txt",
+        "skills": "Python, C, SQL, REST API, REST APIs, Git, Machine Learning, AI, NLP, Pandas, NumPy, Scikit-learn",
+        "final_score": 51.92,
+        "similarity_score": 23.83,
+        "skill_score": 66.67,
+        "education_score": 100.0,
+        "experience_score": 100.0,
+        "rank": 3
+    },
+    {
+        "candidate": "Arjun Reddy",
+        "resume": "resume_04.txt",
+        "skills": "Python, C, SQL, Git, Machine Learning, Artificial Intelligence, AI, NLP, Pandas, TensorFlow",
+        "final_score": 51.81,
+        "similarity_score": 23.62,
+        "skill_score": 66.67,
+        "education_score": 100.0,
+        "experience_score": 100.0,
+        "rank": 4
+    },
+    {
+        "candidate": "Vikram Rao",
+        "resume": "resume_06.txt",
+        "skills": "Python, C, SQL, REST API, REST APIs, Git, Machine Learning, Pandas, NumPy, Scikit-learn",
+        "final_score": 47.27,
+        "similarity_score": 21.21,
+        "skill_score": 55.56,
+        "education_score": 100.0,
+        "experience_score": 100.0,
+        "rank": 5
+    },
+    {
+        "candidate": "Sahana Divatar",
+        "resume": "sample_resume.txt",
+        "skills": "Python, Java, C, TypeScript, React, Next.js, SQL, PostgreSQL, Spring Boot, Spring, Hibernate, REST API, REST APIs, Git, Machine Learning",
+        "final_score": 43.19,
+        "similarity_score": 13.04,
+        "skill_score": 55.56,
+        "education_score": 100.0,
+        "experience_score": 100.0,
+        "rank": 6
+    },
+    {
+        "candidate": "Amit Verma",
+        "resume": "resume_10.txt",
+        "skills": "Python, Java, C, JavaScript, TypeScript, React, SQL, PostgreSQL, REST API, REST APIs, Git",
+        "final_score": 38.85,
+        "similarity_score": 11.04,
+        "skill_score": 44.44,
+        "education_score": 100.0,
+        "experience_score": 100.0,
+        "rank": 7
+    },
+    {
+        "candidate": "Priya Kumar",
+        "resume": "resume_03.txt",
+        "skills": "Java, C, React, SQL, PostgreSQL, Spring Boot, Spring, Hibernate, REST API, REST APIs, Git",
+        "final_score": 37.06,
+        "similarity_score": 14.12,
+        "skill_score": 33.33,
+        "education_score": 100.0,
+        "experience_score": 100.0,
+        "rank": 8
+    },
+    {
+        "candidate": "Kiran Kumar",
+        "resume": "resume_08.txt",
+        "skills": "Java, C, HTML, CSS, SQL, Spring Boot, Spring, Git",
+        "final_score": 20.45,
+        "similarity_score": 7.57,
+        "skill_score": 22.22,
+        "education_score": 0.0,
+        "experience_score": 100.0,
+        "rank": 9
+    },
+    {
+        "candidate": "Neha Singh",
+        "resume": "resume_05.txt",
+        "skills": "Java, C++, C, JavaScript, HTML, CSS, SQL, Git",
+        "final_score": 19.5,
+        "similarity_score": 5.66,
+        "skill_score": 22.22,
+        "education_score": 0.0,
+        "experience_score": 100.0,
+        "rank": 10
+    }
+]
